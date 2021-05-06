@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-## 🚀 Languages and Frameworks
+## :sparkles: Languages and Frameworks
 
 <p align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
