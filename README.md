@@ -71,5 +71,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&layout=compact)](https://github.com/Tatiane3007/github-readme-stats)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&theme=tokyonight" />
 
 
