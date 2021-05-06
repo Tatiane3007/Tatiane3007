@@ -8,9 +8,11 @@
     <a href="https://www.linkedin.com/in/tatiane-silva-44827816a/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <br>
+  <br>
 </h5>
 
-<h5>
+<div>
   <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
     <p align="left">
       <br>
@@ -22,7 +24,7 @@
       💻 I love writing code and learn anythings about it
       <br>
     </p>
-</h5>
+</div>
 
 <!--
 **Tatiane3007/Tatiane3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
