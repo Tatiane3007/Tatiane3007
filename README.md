@@ -13,7 +13,7 @@
 
 
 <div>
-  <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
     <p align="left">
       <br>
       <br>
