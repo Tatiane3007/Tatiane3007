@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-<!-- <p align="center">
+<<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=Tatiane3007&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=Tatiane3007&repo=pixel-weather">
-</p> -->
+</p>>
 
 
