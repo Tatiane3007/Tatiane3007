@@ -68,5 +68,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatiane3007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tatiane's GitHub Stats" />
 </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiane3007&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&layout=compact)](https://github.com/Tatiane3007/github-readme-stats)
