@@ -14,7 +14,7 @@
 
 <div>
   <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
-    <p>
+    <p align="left">
       <br>
       <br>
       🔬 Postgraduate student at Unyleya
