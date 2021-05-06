@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 </br>
 
 ### Languages and Frameworks
+
 <p align="left">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
