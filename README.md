@@ -8,15 +8,16 @@
   <code><a href="" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
-
-
-
-
-
-
-
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p align="center">
+  <br>
+  <br>
+  <!--🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department-->
+  <br>
+  🎓 Graduated from São Judas Tadeu University Computer Engineering
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+</p>
 
 
 <!--
