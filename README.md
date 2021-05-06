@@ -10,18 +10,19 @@
   <code><a href="" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
-<p align="center">
-  <br>
-  <br>
-  🔬 Postgraduate student at Unyleya
-  <br>
-  🎓 Graduated from São Judas Tadeu University Computer Engineering
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-</p>
-<img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
-
+<div>
+    <p align="center">
+      <br>
+      <br>
+      🔬 Postgraduate student at Unyleya
+      <br>
+      🎓 Graduated from São Judas Tadeu University Computer Engineering
+      <br>
+      💻 I love writing code and learn anythings about it
+      <br>
+    </p>
+    <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
+</div>
 
 <!--
 **Tatiane3007/Tatiane3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
