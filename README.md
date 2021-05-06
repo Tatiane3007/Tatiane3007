@@ -11,7 +11,8 @@
 </h5>
 
 <div>
-    <p align="center">
+  <div>
+    <p align="left">
       <br>
       <br>
       🔬 Postgraduate student at Unyleya
@@ -21,7 +22,10 @@
       💻 I love writing code and learn anythings about it
       <br>
     </p>
+  </div>
+  <div>
     <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
+  </div>
 </div>
 
 <!--
