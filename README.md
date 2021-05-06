@@ -18,11 +18,11 @@
     <p align="left">
       <br>
       <br>
-      🔬 <h2>Postgraduate student at Unyleya</h2>
+      🔬 <h6>Postgraduate student at Unyleya</h6>
       <br>
-      🎓 <h2>Graduated from São Judas Tadeu University Computer Engineering</h2>
+      🎓 <h6>Graduated from São Judas Tadeu University Computer Engineering</h6>
       <br>
-      💻 <h2>I love writing code and learn anythings about it</h2>
+      💻 <h6>I love writing code and learn anythings about it</h6>
       <br>
     </p>
 </div>
