@@ -18,7 +18,7 @@
     <p align="left">
       <br>
       <br>
-      <h3>
+      <h3 style="font-family:courier;">
         🔬 Postgraduate student at Unyleya
         <br>
         🎓 Graduated from São Judas Tadeu University Computer Engineering
