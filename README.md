@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
+  <br>
+  <br>
   ### Languages and Frameworks
   <p align="center">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
