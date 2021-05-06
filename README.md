@@ -18,12 +18,14 @@
     <p align="left">
       <br>
       <br>
-      🔬 <h6>Postgraduate student at Unyleya</h6>
-      <br>
-      🎓 <h6>Graduated from São Judas Tadeu University Computer Engineering</h6>
-      <br>
-      💻 <h6>I love writing code and learn anythings about it</h6>
-      <br>
+      <h6>
+        🔬 Postgraduate student at Unyleya
+        <br>
+        🎓 Graduated from São Judas Tadeu University Computer Engineering
+        <br>
+        💻 I love writing code and learn anythings about it
+        <br>
+      </h6>
     </p>
 </div>
 
