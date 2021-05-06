@@ -19,11 +19,11 @@
       <br>
       <br>
       <h3 style="font-family:Georgia">
-        - 🔬 Postgraduate student at Unyleya**
+        <li>🔬 Postgraduate student at Unyleya**</li>
         <br>
-        - 🎓 Graduated from São Judas Tadeu University Computer Engineering**
+        <li>🎓 Graduated from São Judas Tadeu University Computer Engineering</li>
         <br>
-        - 💻 I love writing code and learn anythings about it**
+        <li>💻 I love writing code and learn anythings about it</li>
         <br>
       </h3>
     </p>
