@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tatiane3007.Tatiane3007">
+
 <h2> Hi, I'm Tatiane Silva! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50"></h2>
 <img align='right' src="" width="230">
 
