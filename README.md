@@ -18,14 +18,14 @@
     <p align="left">
       <br>
       <br>
-      <h2>
+      <h3>
         🔬 Postgraduate student at Unyleya
         <br>
         🎓 Graduated from São Judas Tadeu University Computer Engineering
         <br>
         💻 I love writing code and learn anythings about it
         <br>
-      </h2>
+      </h3>
     </p>
 </div>
 
