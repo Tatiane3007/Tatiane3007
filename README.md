@@ -11,7 +11,7 @@
 </h5>
 
 <div>
-  <div>
+  <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
     <p align="left">
       <br>
       <br>
@@ -22,10 +22,6 @@
       💻 I love writing code and learn anythings about it
       <br>
     </p>
-  </div>
-  <div>
-    <img align='right' src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="230">
-  </div>
 </div>
 
 <!--
