@@ -13,7 +13,7 @@
 <p align="center">
   <br>
   <br>
-  <!--🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department-->
+  🔬 Postgraduate student at Unyleya
   <br>
   🎓 Graduated from São Judas Tadeu University Computer Engineering
   <br>
