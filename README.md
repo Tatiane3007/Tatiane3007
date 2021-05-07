@@ -67,8 +67,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tatiane3007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tatiane's GitHub Stats" />
 </a-->
 
-[![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiane3007&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiane3007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiane3007&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
