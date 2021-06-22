@@ -9,7 +9,7 @@
   <code><a href="https://www.hackerrank.com/tatiane8silva201" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/15858281/tatiane3007?tab=profile" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.kaggle.com/tatianesilva" title="Kaggle Profile"><img width="22" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"> Kaggle</a></code>
-  <code><a href="" title="Kaggle Profile"><img width="22" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/c5e0b83a46f2437a3acdbd0790466bf0_badge.png"> Trailhead</a></code>
+  <code><a href="https://trailblazer.me/id/tsilva3000" title="Kaggle Profile"><img width="22" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/c5e0b83a46f2437a3acdbd0790466bf0_badge.png"> Trailhead</a></code>
   <br>
   <br>
 </h5>
