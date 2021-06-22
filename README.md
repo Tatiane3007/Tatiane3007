@@ -9,6 +9,7 @@
   <code><a href="https://www.hackerrank.com/tatiane8silva201" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/15858281/tatiane3007?tab=profile" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.kaggle.com/tatianesilva" title="Kaggle Profile"><img width="22" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"> Kaggle</a></code>
+  <code><a href="" title="Kaggle Profile"><img width="22" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4c9_DhxfvgiWiHDD9_Nu7B-HXj5CPOZUsiahpU_YAJzzlJEKvOzD7ss-WIZl3a3_C5M&usqp=CAU"> Trailhead</a></code>
   <br>
   <br>
 </h5>
