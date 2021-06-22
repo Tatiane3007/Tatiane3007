@@ -9,7 +9,7 @@
   <code><a href="https://www.hackerrank.com/tatiane8silva201" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/15858281/tatiane3007?tab=profile" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.kaggle.com/tatianesilva" title="Kaggle Profile"><img width="22" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"> Kaggle</a></code>
-  <code><a href="" title="Kaggle Profile"><img width="22" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4c9_DhxfvgiWiHDD9_Nu7B-HXj5CPOZUsiahpU_YAJzzlJEKvOzD7ss-WIZl3a3_C5M&usqp=CAU"> Trailhead</a></code>
+  <code><a href="" title="Kaggle Profile"><img width="22" src="https://www.google.com/search?q=salesforce+trailhead.svg&client=opera-gx&hs=Z6&sa=X&bih=893&biw=1280&hl=pt-BR&tbm=isch&source=iu&ictx=1&fir=P5K1B78mdS1BnM%252CyhncD3Hukmn0kM%252C_&vet=1&usg=AI4_-kTOYZDOx6stlQ1o35ltz0G7u5IOLg&ved=2ahUKEwi0o5DChqzxAhXFrpUCHf1DBRIQ9QF6BAgQEAE#imgrc=P5K1B78mdS1BnM"> Trailhead</a></code>
   <br>
   <br>
 </h5>
