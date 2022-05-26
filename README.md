@@ -21,7 +21,7 @@
       <br>
       <br>
       <h3 style="font-family:Georgia">
-        <li>🔬 Postgraduate student at Unyleya</li>
+        <li>🔬 Postgraduated from Unyleya Data Science</li>
         <br>
         <li>🎓 Graduated from São Judas Tadeu University Computer Engineering</li>
         <br>
