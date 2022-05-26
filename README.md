@@ -59,7 +59,8 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="100">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="100">
-  <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="100"><br><br>
+  <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="100"><br><br>
 </p>
 
 
