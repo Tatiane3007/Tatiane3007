@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-## :sparkles: Languages and Frameworks
+## :sparkles: Languages, Frameworks and Tools
 
 <p align="left">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
