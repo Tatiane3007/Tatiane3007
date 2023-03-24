@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   
-  </img src="//cdn.credly.com/assets/utilities/embed.js"></img>
+  </img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="100">
   
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
