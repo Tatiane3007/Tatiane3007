@@ -25,7 +25,7 @@
         <br>
         <li>🎓 Graduated from São Judas Tadeu University Computer Engineering</li>
         <br>
-        <li>💻 I love writing code and learn anythings about it</li>
+        <li>💻 I am committed to lifelong learning and believe that education is a continuous journey. Through my dedication to learning, I have expanded my knowledge and skills in various areas, from academic subjects to personal development. I strive to continue learning and growing throughout my life.</li>
         <br>
       </h3>
     </p>
