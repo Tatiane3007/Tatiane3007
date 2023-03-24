@@ -27,9 +27,10 @@
         <br>
         </br>
         </br>
-        <li> 🌟 I am committed to lifelong learning and believe that education is a continuous journey. </br>
+        </br>
+        🌟 I am committed to lifelong learning and believe that education is a continuous journey. </br>
                 Through my dedication to learning, I have expanded my knowledge and skills in various areas, from academic subjects to personal development. </br>
-                I strive to continue learning and growing throughout my life.</li>
+                I strive to continue learning and growing throughout my life.
         <br>
       </h3>
     </p>
