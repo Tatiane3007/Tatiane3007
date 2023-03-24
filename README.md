@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0d5a5886-a625-4560-83b6-ebce45267058" data-share-badge-host="https://www.credly.com">     </div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </img src="//cdn.credly.com/assets/utilities/embed.js"></img>
   
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
